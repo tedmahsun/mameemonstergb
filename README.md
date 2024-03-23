@@ -15,7 +15,10 @@ Therefore this game demo is a thought experiment of what could have been if MAME
 ## Compiling
 
 You will need GB Studio 3.1 and the Platformer+ 1.6 plugin to compile the game ROM.
+
 Alternatively you may also simply download the precompiled ROM file from itch.io (URL TO BE ADDED).
+
+Assets for this game are not provided in this repository due to various reasons and do not fall under the license applicable to the software code.
 
 ## Playing the game
 TO BE UPDATED

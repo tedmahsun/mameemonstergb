@@ -2,4 +2,6 @@
 *.bak
 assets/
 build/rom/
+build/web/
+build/pocket/
 plugins/

@@ -1,2 +1,5 @@
 # ignore all .bak files
 *.bak
+assets\
+build\rom\
+plugins\

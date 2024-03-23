@@ -18,3 +18,4 @@ You will need GB Studio 3.1 and the Platformer+ 1.6 plugin to compile the game R
 Alternatively you may also simply download the precompiled ROM file from itch.io.
 
 ## Playing the game
+TO BE UPDATED

@@ -1,7 +1,11 @@
 # ignore all .bak files
+<<<<<<< HEAD
 *.bak
 assets/
 build/rom/
 build/web/
 build/pocket/
 plugins/
+=======
+*.bak
+>>>>>>> parent of 41311f5 (updated code)

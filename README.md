@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MAMEE Monster in The Mystery of the Missing Map
 The licensed video game they never made featuring Malaysia's best-known ramen-based snack mascot.
 
@@ -22,3 +23,7 @@ Assets for this game are not provided in this repository due to various reasons 
 
 ## Playing the game
 TO BE UPDATED
+=======
+# mameemonstergb
+The licensed video game they never made featuring Malaysia's best-known ramen-based snack mascot. 
+>>>>>>> parent of 41311f5 (updated code)
